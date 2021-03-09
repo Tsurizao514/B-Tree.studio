@@ -66,7 +66,7 @@
     "piecon": "^0.5.0",
     "sass-loader": "^8.0.2",
     "sitemap": "^5.1.0",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.110.3",
     "valine": "^1.4.14",
     "vue-class-component": "^7.2.3",
